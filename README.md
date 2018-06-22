@@ -4,7 +4,7 @@ Rather than navigating to each service via Ambari, We can use the single pane vi
 
 ![alt text](https://community.hortonworks.com/storage/attachments/42877-ambari-all-services-stopped.jpg)
 
-miniambari provide a simple view about the cluster.
+**miniambari** provides a simple view about the HDP cluster.
 
 ![alt text](https://github.com/hemantdindi/miniambari/blob/master/miniAmbari.png)
 
