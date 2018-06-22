@@ -8,4 +8,4 @@ miniambari provide a simple view about the cluster.
 
 ![alt text](https://github.com/hemantdindi/miniambari/blob/master/miniAmbari.png)
 
-### Note - Clients are also treated as a component. Warning can be avoided.
+### Note - Clients are also treated as a component. Warning will be fixed soon.
